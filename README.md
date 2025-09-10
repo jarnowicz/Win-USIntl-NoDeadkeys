@@ -1,4 +1,4 @@
-# US International Layout (no dead keys) for Windows
+# US International Layouts (no dead keys) for Windows
 
 By default, Windows includes a layout called United States-International, which allows typing many non-ASCII characters. It is very useful for several Latin-script based languages.
 
