@@ -1,4 +1,4 @@
-﻿KBD	kbdusxtx	"Antonian"
+﻿KBD	kbdusxtx	"Aranama"
 
 COPYRIGHT	"(c) 2017 Daniels Umanovskis, jlrn@"
 
@@ -156,9 +156,10 @@ KEYNAME_EXT
 
 DESCRIPTIONS
 
-0409	United States-International - AltGr - No Dead Keys
+540A	Aranama
 LANGUAGENAMES
 
-0409	English (United States)
+540A	Spanish (United States)
 ENDKBD
+
 
