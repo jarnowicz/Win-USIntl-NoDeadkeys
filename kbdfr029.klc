@@ -1,12 +1,12 @@
-﻿KBD	kbdusxfr	"Acadien"
+﻿KBD	kbdfr029	"Antillais"
 
 COPYRIGHT	"(c) 2020 Hoang-An Le, 2025 jlrn@"
 
 COMPANY	"up.edu.mx"
 
-LOCALENAME	"fr-CA"
+LOCALENAME	"fr-029"
 
-LOCALEID	"00000C0C"
+LOCALEID	"00001C0C"
 
 VERSION	1.0
 
@@ -156,12 +156,13 @@ KEYNAME_EXT
 
 DESCRIPTIONS
 
-0C0C	Acadien
+1C0C	Antillais
 
 LANGUAGENAMES
 
-0C0C	French (Canada)
+1C0C	French (Caribbean)
 
 ENDKBD
+
 
 
