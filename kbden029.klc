@@ -1,12 +1,12 @@
-﻿KBD	kbdusxtx	"Aranama"
+﻿KBD	kbdusxtx	"Antillean"
 
 COPYRIGHT	"(c) 2017 Daniels Umanovskis, jlrn@"
 
 COMPANY	"up.edu.mx"
 
-LOCALENAME	"es-US"
+LOCALENAME	"en-029"
 
-LOCALEID	"0000540A"
+LOCALEID	"00002409"
 
 VERSION	1.0
 
@@ -156,10 +156,11 @@ KEYNAME_EXT
 
 DESCRIPTIONS
 
-540A	Aranama
+2409	Antillean
 LANGUAGENAMES
 
-540A	Spanish (United States)
+2409	English (Caribbean)
 ENDKBD
+
 
 
